@@ -4,5 +4,8 @@
         "compilerPath",
         "clang-x64"
     ],
-    "C_Cpp.default.enableConfigurationSquiggles": true
+    "C_Cpp.default.enableConfigurationSquiggles": true,
+    "files.associations": {
+        "stdio.h": "c"
+    }
 }
